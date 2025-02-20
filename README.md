@@ -1,13 +1,3 @@
-Absolutely! Below is an updated version of the README that:
-
-1. References **Jupyter notebooks** (rather than `.py` files) in the setup and usage instructions.  
-2. Embeds short **analysis** summaries in the section that previously said “YOUR ANALYSIS GOES HERE,” so that your README and notebook remain consistent.  
-3. Maintains your general structure and style from previous READMEs, including references to environment creation, how to open `.ipynb` files, and where to find analysis results.
-
-You can replace the placeholder analysis text with your actual analysis whenever you’re ready. For clarity, I've inserted a sample “Analysis Explanation” block in the relevant spot. Adjust and expand as needed for your real insights!
-
----
-
 # Webscraper Challenge - MarsUpdate
 `Module 5`  
 `EdX(2U) & UT Data Analytics and Visualization Bootcamp`  
