@@ -98,7 +98,7 @@ Both tasks are performed in Jupyter notebooks so that code, outputs, and analyti
 6. **Open `part_2_mars_weather.ipynb`** and run all cells:
    - This will automate a browser session to the Mars facts site.  
    - It will scrape the data table, load into a Pandas DataFrame, visualize monthly temperature/pressure, and produce final CSV output (`mars_data.csv`).  
-   - Check the markdown cells labeled for “Analysis” to see or add commentary on your findings.
+   - Check the markdown cells labeled for “Analysis” to see commentary on findings.
 
 [:arrow_up: Return to TOC](#table-of-contents)  
 
@@ -152,9 +152,9 @@ webscraper-challenge/
 - Outputs `mars_data.csv` as a clean data file.  
 - Markdown cells contain commentary on the average minimum temperatures per moth, the average pressures per month, and rough calculation for how many Earth days are in a Martian year.  
 - Bar Charts:
-   + [avgTemp_ByMonth](Figures/avgTemp_byMonth.png)  
-   + [avgAtm_ByMonth](Figures/avgAtm_byMonth.png)  
-   + [temp_byTime](Figures/temp_byTime)
+   + ![avgTemp_ByMonth](MarsUpdate/Figures/avgTemp_byMonth.png)  
+   + ![avgAtm_ByMonth](MarsUpdate/Figures/avgAtm_byMonth.png)  
+   + ![temp_byTime](MarsUpdate/Figures/temp_byTime.png)
 
 [:arrow_up: Return to TOC](#table-of-contents)  
 
