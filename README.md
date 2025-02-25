@@ -74,7 +74,6 @@ Both tasks are performed in Jupyter notebooks so that code, outputs, and analyti
 - **BeautifulSoup**: `pip install beautifulsoup4`  
 - A compatible **web driver** for Splinter (e.g., **ChromeDriver**) that is accessible via PATH or an absolute path.
 
-[:arrow_up: Return to TOC](#table-of-contents)  
 
 ### Instructions
 1. **Clone this repository** (or download its `.ipynb` files).  
@@ -100,7 +99,6 @@ Both tasks are performed in Jupyter notebooks so that code, outputs, and analyti
    - It will scrape the data table, load into a Pandas DataFrame, visualize monthly temperature/pressure, and produce final CSV output (`mars_data.csv`).  
    - Check the markdown cells labeled for “Analysis” to see commentary on findings.
 
-[:arrow_up: Return to TOC](#table-of-contents)  
 
 ### Limitations
 - **Static scraping**: Only tested against the provided static pages. Changes to these pages may break the script.  
@@ -169,7 +167,6 @@ webscraper-challenge/
 3. **Data Extraction**: Title and preview snippet are stored in a dictionary.  
 4. **Output**: The final list is displayed in the notebook.
 
-[:arrow_up: Return to TOC](#table-of-contents)  
 
 ### Scraping and Analyzing Weather Data (Part 2)
 **Brief Summary**  
@@ -186,7 +183,6 @@ webscraper-challenge/
    - Estimate Earth days in a Martian year using temperature data.  
 5. **CSV Export**: The final dataset is written to `mars_data.csv`.
 
-[:arrow_up: Return to TOC](#table-of-contents)  
 
 ### Embedded Analysis
 - **Coldest/Hottest Months:**  
