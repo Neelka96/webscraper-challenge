@@ -55,7 +55,7 @@ Both tasks are performed in Jupyter notebooks so that code, outputs, and analyti
 
 2. **part_2_mars_weather.ipynb**  
    - A Jupyter notebook that scrapes the Mars temperature/pressure data site, analyzes it in Pandas, and visualizes results.  
-   - Includes **inline commentary** on the results (previously marked “YOUR ANALYSIS GOES HERE”).  
+   - Includes **inline commentary** on the results.  
 
 3. **README.md**  
    - Explains the project goals, usage instructions, and final outcomes.
